@@ -1,0 +1,54 @@
+package-lock.json
+package.json
+.gitignore
+example.tokens.txt
+LICENSE
+README.md
+tsconfig.json
+profile*
+    Estructura.txt
+    Status.txt
+    Description.txt
+    Wick.png
+src*
+    massDM.ts
+    config.json
+    index.ts
+    tokens.txt
+    buttons*
+        help.ts
+        verify.ts
+    commands*
+        setrole.ts
+        spawn.ts
+    events*
+        Ready.ts
+        InteractionCreate.ts
+        MessageCreate.ts
+    interfaces*
+        IApplication.ts
+        IConfig.ts
+        IDiscord.ts
+        ISocketEvents.ts
+    server*
+        express.ts
+    structs*
+        BotClass.ts
+        CaptchaSolver.ts
+        SocketClass.ts
+    util*
+        config.ts
+        axios.ts
+        embeds.ts
+        js*
+            fetch.js
+        old*
+            config.ts
+            axios.ts
+.devcontainer*
+    devcontainer.json
+.github*
+    FUNDING.yml
+assets*
+    1.png
+    2.png
