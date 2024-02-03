@@ -9,7 +9,8 @@
     "dev": "nodemon ts-node src/index.ts --exec ts-node --trace-warnings"
   },
   "engines": {
-    "node": "18.x || 19.x || 20.x"
+    "node": "18.x || 19.x || 20.x",
+    "npm": "10.2.0"    
   },
   "devDependencies": {
     "@types/node": "^18.11.9",
