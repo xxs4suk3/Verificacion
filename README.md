@@ -143,5 +143,4 @@
 This code cannot be taken by any random person and claimed as their own. This code is protected by copyright. If you want to collaborate, create a branch or open an issue. You can also contribute, but you cannot sell this code or promote it as a sale. Credits go to the creators.
 <br>
 <br>
-- If you need help, contact <a href="https://github.com/k4itrun">k4itrun</a> -
 </div>
